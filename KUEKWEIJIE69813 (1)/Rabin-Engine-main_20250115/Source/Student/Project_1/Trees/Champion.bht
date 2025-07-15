@@ -1,0 +1,8 @@
+TREENAME(Champion)
+TREENODE(C_ParallelSequencer, 0)
+TREENODE(C_Selector, 1)
+TREENODE(D_InvertedRepeater, 2)
+TREENODE(L_CheckMouseClick, 3)
+TREENODE(L_MoveToMouseClick, 2)
+TREENODE(L_Idle, 2)
+TREENODE(L_AttackMinionIfInRange, 1)
